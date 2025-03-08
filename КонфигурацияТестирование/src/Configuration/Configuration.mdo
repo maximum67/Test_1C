@@ -48,6 +48,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Документы</subsystems>
+  <subsystems>Subsystem.Справочники</subsystems>
   <commonPictures>CommonPicture.БизнесПроцессы</commonPictures>
   <commonPictures>CommonPicture.БухгалтерскийУчет</commonPictures>
   <commonPictures>CommonPicture.ОперативныйУчет</commonPictures>
