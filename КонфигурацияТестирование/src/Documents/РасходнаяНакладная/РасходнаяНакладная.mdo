@@ -127,6 +127,7 @@
         <types>Number</types>
         <numberQualifiers>
           <precision>10</precision>
+          <scale>3</scale>
           <nonNegative>true</nonNegative>
         </numberQualifiers>
       </type>
@@ -144,7 +145,7 @@
       <type>
         <types>Number</types>
         <numberQualifiers>
-          <precision>10</precision>
+          <precision>12</precision>
           <scale>2</scale>
           <nonNegative>true</nonNegative>
         </numberQualifiers>

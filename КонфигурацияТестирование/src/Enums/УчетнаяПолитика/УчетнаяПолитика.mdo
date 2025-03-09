@@ -43,4 +43,11 @@
       <value>FIFO</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="15345114-0bf0-4366-92f1-032ff9752079">
+    <name>ПоСреднему</name>
+    <synonym>
+      <key>ru</key>
+      <value>По среднему</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>
